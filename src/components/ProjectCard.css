@@ -1,0 +1,50 @@
+/* src/components/ProjectCard.css */
+.project-card {
+  background-color: var(--bg-light);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.project-card h3 {
+  font-size: 1.8em;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: var(--primary-color);
+}
+
+.project-card p {
+  font-size: 1em;
+  line-height: 1.5;
+  color: var(--text-color);
+}
+
+.project-card .technologies {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.project-card .project-links a {
+  display: inline-block;
+  background-color: var(--secondary-color);
+  color: var(--white);
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 0 10px;
+  transition: background-color 0.3s ease;
+}
+
+.project-card .project-links a:hover {
+  background-color: var(--primary-color);
+  text-decoration: none;
+}
