@@ -4,6 +4,7 @@
   color: var(--white);
   padding: 20px 0;
   text-align: center;
+  height: 100vh;
 }
 
 .header h1 {

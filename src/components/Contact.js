@@ -9,9 +9,9 @@ function Contact() {
         <p>Estou aberta a novas oportunidades e adoro discutir ideias. Sinta-se à vontade para entrar em contato!</p>
         <div className="contact-info">
           <p><strong>Email:</strong> <a href="mailto:andiara.20014@gmail.com">andiara.20014@gmail.com</a></p>
-          <p><strong>Telefone:</strong> (61) 99501-1118</p>
-          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank" rel="noopener noreferrer">linkedin.com/in/SEU_LINKEDIN</a></p> {/* SUBSTITUA PELO SEU LINK DO LINKEDIN */}
-          <p><strong>GitHub:</strong> <a href="https://github.com/SEU_GITHUB" target="_blank" rel="noopener noreferrer">github.com/SEU_GITHUB</a></p> {/* SUBSTITUA PELO SEU LINK DO GITHUB */}
+          <p><strong>Telefone:</strong> (61) *****-****</p>
+          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andiararamos/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/andiararamos/</a></p> {/* SUBSTITUA PELO SEU LINK DO LINKEDIN */}
+          <p><strong>GitHub:</strong> <a href="https://github.com/Andiara1999?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Andiara1999?tab=repositories</a></p> {/* SUBSTITUA PELO SEU LINK DO GITHUB */}
         </div>
         {/*
           Opcional: Você pode adicionar um formulário de contato aqui se quiser.
